@@ -1,32 +1,19 @@
 # Overview
 
-How this repo works is explained before
+How this repo structure works is explained below in a somewhat chronological order.
 
-## ARCHIVE
-
-Old code lives here, if you have any old files move that shit in here.
-
-## PROTOTYPE
-
-Code that is "just for fun" and things something different can be found here.
-
-## Development
-
-Code for individual working components of the arm is found here
-
-## Useful
-
-Thing repo has everything. Look here for circuit diagrams, datasheets, this readme and etc ...
-
-## IMPLEMENTATION
-
-The finally full working code for the robot!
+<ol>
+	<li>Prototype - code that is "just for fun" and things something different can be found here</li>	
+	<li>Development - code for individual working components of the arm is found here</li>
+	<li> Useful - thisrepo has everything, look here for circuit diagrams, datasheets, this readme and etc ...</li>	
+	<li>Archive - old code lives here, if you have any old files move that shit in here.</li>	
+</ol>
 
 # Other Information
 
 Useful things that you should know I put in here :) luv broden
 <br />
-Should add a asection about proper code conventions so we can keep things consistent
+TODO: Should add a a section about proper code conventions so we can keep things consistent
 
 ## Git
 
@@ -72,25 +59,12 @@ how to use markdown (language you right the README's in): http://daringfireball.
 
 ## Conventions
 
-TODO - fill out more info here!
-<br />
-Type | Wire Colour
+TODO - constantly fill out more information here!
 
-#### H-BRIDGES
+#### Wiring
 
-<ul>
-	<li>connection between components - Yellow</li>
-	<li>Vcc - Orange</li>
-	<li>GND - Blue</li>
-</ul>
+https://docs.google.com/spreadsheets/d/1zxroGDWT_KZaockyPiIJMik28RTBMBbzATSAYPfGZ1k/edit#gid=0
 
-One H-bridge has Vcc as red and GND as green.
+#### Code
 
-
-#### TINAH INPUTS
-
-<ul>
-	<li>Vcc (+5V) - </li>
-</ul>
-
-GND
+???
