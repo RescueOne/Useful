@@ -1,0 +1,20 @@
+MARKDOWN COPY & PASTE SYNTAX
+
+<br /> line break
+
+unordered list
+<ul>
+	<li></li>
+</ul>
+
+ordered list
+<ol>
+	<li></li>
+</ol>
+
+<table>
+	<caption> </caption>
+    <tr> <- row
+        <td></td> <- col
+    </tr>
+</table>
